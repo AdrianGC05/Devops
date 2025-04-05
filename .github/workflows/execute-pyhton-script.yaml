@@ -15,7 +15,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11'  
+          python-version: '3.11'
 
       - name: Run Python script
-        run: python act11_print_hello.py
+        run: python "Actividad 11/act11_print_hello.py"
