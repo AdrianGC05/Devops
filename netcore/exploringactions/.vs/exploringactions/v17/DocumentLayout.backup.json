@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adrig\\source\\repos\\exploringactions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8436CA6-8FD3-445C-9A92-F1BC9C0E7DF0}|testexploringapi\\testexploringapi.csproj|c:\\users\\adrig\\source\\repos\\exploringactions\\testexploringapi\\weatherforecastcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8436CA6-8FD3-445C-9A92-F1BC9C0E7DF0}|testexploringapi\\testexploringapi.csproj|solutionrelative:testexploringapi\\weatherforecastcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BB3138-2D29-4884-89D6-A3B945861D45}|exploringactions\\exploringactions.csproj|c:\\users\\adrig\\source\\repos\\exploringactions\\exploringactions\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BB3138-2D29-4884-89D6-A3B945861D45}|exploringactions\\exploringactions.csproj|solutionrelative:exploringactions\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BB3138-2D29-4884-89D6-A3B945861D45}|exploringactions\\exploringactions.csproj|c:\\users\\adrig\\source\\repos\\exploringactions\\exploringactions\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BB3138-2D29-4884-89D6-A3B945861D45}|exploringactions\\exploringactions.csproj|solutionrelative:exploringactions\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BB3138-2D29-4884-89D6-A3B945861D45}|exploringactions\\exploringactions.csproj|c:\\users\\adrig\\source\\repos\\exploringactions\\exploringactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BB3138-2D29-4884-89D6-A3B945861D45}|exploringactions\\exploringactions.csproj|solutionrelative:exploringactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adrig\\source\\repos\\exploringactions\\exploringactions\\Program.cs",
+              "RelativeDocumentMoniker": "exploringactions\\Program.cs",
+              "ToolTip": "C:\\Users\\adrig\\source\\repos\\exploringactions\\exploringactions\\Program.cs",
+              "RelativeToolTip": "exploringactions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T23:36:29.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\adrig\\source\\repos\\exploringactions\\exploringactions\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "exploringactions\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\adrig\\source\\repos\\exploringactions\\exploringactions\\WeatherForecast.cs",
+              "RelativeToolTip": "exploringactions\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T23:36:28.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\adrig\\source\\repos\\exploringactions\\testexploringapi\\WeatherForecastControllerTest.cs",
+              "RelativeDocumentMoniker": "testexploringapi\\WeatherForecastControllerTest.cs",
+              "ToolTip": "C:\\Users\\adrig\\source\\repos\\exploringactions\\testexploringapi\\WeatherForecastControllerTest.cs",
+              "RelativeToolTip": "testexploringapi\\WeatherForecastControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T23:36:24.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\adrig\\source\\repos\\exploringactions\\exploringactions\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "exploringactions\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\adrig\\source\\repos\\exploringactions\\exploringactions\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "exploringactions\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T23:10:35.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
